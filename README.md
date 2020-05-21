@@ -1,6 +1,11 @@
 # cm-server
 A light weight and easy to use http server framework. 一个轻量且简单易用的HTTP服务器框架
 
+## Installation
+
+``` shell
+go get github.com/CxZMoE/cm-server
+```
 
 ## Usage
 
